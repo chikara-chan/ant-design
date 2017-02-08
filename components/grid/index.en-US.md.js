@@ -399,7 +399,15 @@ webpackJsonp([174,211],{
 	              "code",
 	              "flex"
 	            ],
-	            ", effective modern browser"
+	            ", ",
+	            [
+	              "a",
+	              {
+	                "title": null,
+	                "href": "http://caniuse.com/#search=flex"
+	              },
+	              "effective modern browser"
+	            ]
 	          ],
 	          [
 	            "td",

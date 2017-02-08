@@ -466,11 +466,11 @@ webpackJsonp([92,211],{
 	          "pre",
 	          {
 	            "lang": "js",
-	            "highlighted": "<span class=\"token comment\" spellcheck=\"true\">// .babelrc</span>\n<span class=\"token punctuation\">{</span>\n  <span class=\"token string\">\"plugins\"</span><span class=\"token punctuation\">:</span> <span class=\"token punctuation\">[</span><span class=\"token punctuation\">[</span><span class=\"token string\">\"import\"</span><span class=\"token punctuation\">,</span> <span class=\"token punctuation\">{</span> libraryName<span class=\"token punctuation\">:</span> <span class=\"token string\">\"antd\"</span><span class=\"token punctuation\">,</span> style<span class=\"token punctuation\">:</span> <span class=\"token string\">\"css\"</span> <span class=\"token punctuation\">}</span><span class=\"token punctuation\">]</span><span class=\"token punctuation\">]</span>\n<span class=\"token punctuation\">}</span>"
+	            "highlighted": "<span class=\"token comment\" spellcheck=\"true\">// .babelrc or babel-loader option</span>\n<span class=\"token punctuation\">{</span>\n  <span class=\"token string\">\"plugins\"</span><span class=\"token punctuation\">:</span> <span class=\"token punctuation\">[</span><span class=\"token punctuation\">[</span><span class=\"token string\">\"import\"</span><span class=\"token punctuation\">,</span> <span class=\"token punctuation\">{</span> libraryName<span class=\"token punctuation\">:</span> <span class=\"token string\">\"antd\"</span><span class=\"token punctuation\">,</span> style<span class=\"token punctuation\">:</span> <span class=\"token string\">\"css\"</span> <span class=\"token punctuation\">}</span><span class=\"token punctuation\">]</span><span class=\"token punctuation\">]</span>\n<span class=\"token punctuation\">}</span>"
 	          },
 	          [
 	            "code",
-	            "// .babelrc\n{\n  \"plugins\": [[\"import\", { libraryName: \"antd\", style: \"css\" }]]\n}"
+	            "// .babelrc or babel-loader option\n{\n  \"plugins\": [[\"import\", { libraryName: \"antd\", style: \"css\" }]]\n}"
 	          ]
 	        ],
 	        [

@@ -189,7 +189,7 @@ webpackJsonp([170,211],{
 	          ],
 	          [
 	            "td",
-	            "Function"
+	            "Function(value)"
 	          ],
 	          [
 	            "td"

@@ -6339,6 +6339,34 @@ webpackJsonp([210,211],{
 	      "."
 	    ],
 	    [
+	      "h4",
+	      "Release Schedule"
+	    ],
+	    [
+	      "ul",
+	      [
+	        "li",
+	        [
+	          "p",
+	          "Weekly release: patch version at the end of every week for routine bugfix (anytime for urgent bugfix)."
+	        ]
+	      ],
+	      [
+	        "li",
+	        [
+	          "p",
+	          "Monthly release: minor version at the end of every month for new features."
+	        ]
+	      ],
+	      [
+	        "li",
+	        [
+	          "p",
+	          "Major version release is not included in this schedule for breadking change and new features."
+	        ]
+	      ]
+	    ],
+	    [
 	      "p",
 	      "If you want to read change logs before ",
 	      [

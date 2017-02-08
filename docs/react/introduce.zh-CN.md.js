@@ -898,7 +898,7 @@ webpackJsonp([91,211],{
 	            },
 	            "Stack Overflow"
 	          ],
-	          "（推荐）"
+	          "（英文）"
 	        ]
 	      ],
 	      [
@@ -912,7 +912,8 @@ webpackJsonp([91,211],{
 	              "href": "https://segmentfault.com/t/antd"
 	            },
 	            "Segment Fault"
-	          ]
+	          ],
+	          "（中文）"
 	        ]
 	      ],
 	      [
